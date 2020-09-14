@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is my CV: [PDF](CV.pdf)
 <!--
 **anvanhieu/anvanhieu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
